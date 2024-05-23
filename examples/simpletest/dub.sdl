@@ -1,0 +1,9 @@
+name "simpletest"
+description "Example Iterate Image Package."
+authors "TodNaz"
+copyright "Copyright © 2024, TodNaz"
+license "MIT"
+sourceFiles "app.d"
+
+dependency "iterimg" version="*"
+targetType "executable"

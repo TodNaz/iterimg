@@ -1,0 +1,8 @@
+name "iterimg"
+description "Iterate Image Package."
+authors "TodNaz"
+copyright "Copyright © 2024, TodNaz"
+license "MIT"
+dependency "imagefmt" version="2.1.2"
+
+subPackage "./examples/simpletest"

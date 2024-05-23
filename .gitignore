@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/iterimg
+iterimg.so
+iterimg.dylib
+iterimg.dll
+iterimg.a
+iterimg.lib
+iterimg-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
